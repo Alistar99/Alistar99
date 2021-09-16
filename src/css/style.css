@@ -1,6 +1,23 @@
 body{font-family: Arial,sans-serif}
-nav{width: 100%;height: 60px;background-color: orange}
+nav{width: 100%;height: 60px;background-color: black}
 .logo{color: #fff;font-size: 30px;line-height: 60px;padding-left: 388px;float: left}
 .menu{float: left;padding-left: 432px}
-.menu li{float: left;line-height: 30px;color: #fff;margin-right: 40px;font-size:16px;text-transform: uppercase}
-.main{width: 100%;height: calc(100%-60%); background: url(../img/Boy.jpg)}
+.menu li{float: left;line-height: 60px;color: #fff;margin-right: 40px;font-size:16px;text-transform: uppercase}
+.main{width: 100%;height: calc(100% - 60px); background:  url(../img/Boy1.png)  90% 100%/contain no-repeat , url(../img/%D0%A4%D0%9E%D0%9D.png)}
+.title_container{float: left; margin: 432px 0px 0px 404px; text-align: center}
+.title_container h1{font-size: 60px;}
+.title_container h4{margin-top: 30px; font-size: 30px}
+.title_container input{height: 50px; width: 150px; text-align: center; font-size: 20px; border: 2px solid #000; background: none; border-radius: 10px; padding: 0px 16px; margin: 125px 14px 0px 14px}
+
+
+
+.TWO{height: 716px}
+.Im{text-align: center; margin-top: 108px; font-size: 30px; font-weight: bold}
+div img{border: 5px solid none; margin-left: auto; margin-right: auto; display: block; margin-top: 96px}
+.Info{text-align: center; margin-top: 22px;font-size: 20px}
+#Rezyme {margin-top: 40px; margin-left: auto; margin-right: auto; display: block; font-size: 17px; text-align: left; height: 34px; width: 156px;background: none; background: url(../img/down.jpg) 98% 50%/20px no-repeat; border-radius: 10px; border: 2px solid #000}
+
+
+
+.THREE{height: 524px; background:linear-gradient(to bottom right, white, #eab02a)}
+.What{padding-top: 124px
