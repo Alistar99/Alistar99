@@ -60,6 +60,8 @@ div img{border: 5px solid none; margin-left: auto; margin-right: auto; display: 
 .blabla{text-align: center; margin-top: 22px;font-size: 20px}
 .KEYS{text-align: center; padding-top: 108px; font-size: 30px; font-weight: bold}
 .Page{width: 1170px; height: 592px}
+.QQ{float: left}
 .Client{margin: 44px 1403px 0 388px}
 .Website{margin: 17px 1403px 0 388px}
-.Name{margin: -10px 1403px 0 674px}
+.Name{margin-left: 674px; margin-top: 1px}
+
