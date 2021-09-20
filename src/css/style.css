@@ -56,12 +56,58 @@ div img{border: 5px solid none; margin-left: auto; margin-right: auto; display: 
 
 
 
-.FOUR{height: 1156px; background-color: aqua}
+.FOUR{height: 2000px}
 .blabla{text-align: center; margin-top: 22px;font-size: 20px}
 .KEYS{text-align: center; padding-top: 108px; font-size: 30px; font-weight: bold}
 .Page{width: 1170px; height: 592px}
-.QQ{float: left}
-.Client{margin: 44px 1403px 0 388px}
-.Website{margin: 17px 1403px 0 388px}
-.Name{margin-left: 674px; margin-top: 1px}
+.QQ{float: left; width: 300px; margin-left: 388px; margin-top: 38px}
+.Client1{margin-top: 15px}
+.Website{margin-top: 15px;}
+.Website1{margin-top: 15px}
+.Name{margin-top: 38px}
+.Name1{margin-top: 15px; margin-right: 400px}
+.Nameh3{font-size: 17px; font-weight: bold; color: #6095b7}
+.Clienth3{font-size: 17px; font-weight: bold; color: #6095b7}
+.Websiteh3{font-size: 17px; font-weight: bold; color: #6095b7}
+
+.Cena{margin-top: 202px; text-align: center;font-size: 30px; font-weight: bold}
+.Tip{margin-top: 60px; margin-left: 494px;font-size: 30px}
+.select{position: relative; margin-bottom: 62px; margin-top: 22px}
+.select select{
+    border: 1px solid white;
+    background: #eeeeee;
+    margin-left: 494px;
+    padding: 25px 24px;
+    width: 891px;
+    font-size: 20px;
+    color: #737373}
+.Sroki{margin-left: 494px; margin-bottom: 20px; font-size: 20px; font-weight: bold}
+.Stoim{margin-left: 494px; font-size: 20px; font-weight: bold}
+
+
+
+.FIVE{height: 499px; margin-top: 50px; background-image: url(../img/FIVE.png)}
+.Stat{padding-top: 100px; text-align: center; font-size: 30px; font-weight: bold}
+.Section{display: flex; justify-content: space-around;}
+.title{text-align: center; padding-top: 33px; font-size: 30px; font-weight: bold}
+.text{text-align: center; padding-top: 33px; font-size: 20px;}
+
+
+
+.SIX{height: 592px}
+.OTZ{padding-top: 104px; text-align: center; font-size: 30px; font-weight: bold}
+.Be{text-align: center; padding-top: 40px}
+.Alina{text-align: center; padding-top: 36px}
+.Rad{text-align: center; padding-top: 50px; padding-bottom: 90px}
+
+
+
+.SEVEN{height: 800px; background-image: url(../img/Seven_%D0%A4%D0%BE%D0%BD.png)}
+.Kont{padding-top: 104px; text-align: center; font-size: 30px; font-weight: bold; color: white}
+.Section1{display: flex; justify-content:space-around;}
+.title1{text-align: center; padding-top: 33px; font-size: 15px; font-weight: bold; color: white}
+
+
+
+
 
